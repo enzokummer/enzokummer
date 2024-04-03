@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnzinK
+- 👋 Hi, I’m @enzokummer
 - 🌱 I’m currently learning C++, MySQL and Python.
 - 💞️ I’m looking to collaborate on projects that could teach me new skills and knowledges.
 - 📫 How to reach me:
