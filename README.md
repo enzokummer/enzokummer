@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EnzinK
-- 👀 I’m interested in finding a job opportunity
-- 🌱 I’m currently learning C, MySQL, NodeJS, Next, Python.
+- 🌱 I’m currently learning C++, MySQL and Python.
 - 💞️ I’m looking to collaborate on projects that could teach me new skills and knowledges.
 - 📫 How to reach me:
 - email: enzokummer@gmail.com
